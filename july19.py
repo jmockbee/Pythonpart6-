@@ -9,6 +9,6 @@ else:
     larger_number = number2
 
 # Print the result
-print("The larger number is:", larger_number
+print("The larger number is:", larger_number)
 
 
