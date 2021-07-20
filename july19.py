@@ -1,8 +1,14 @@
-#var = 0  # Assigning 0 to var
-#print(var != 0)
+# Read two numbers
+number1 = int(input("Enter the first number: "))
+number2 = int(input("Enter the second number: "))
 
-#var = 1  # Assigning 1 to var
-#print(var != 0)
+# Choose the larger number
+if number1 > number2:
+    larger_number = number1
+else:
+    larger_number = number2
 
-var = int (input())
+# Print the result
+print("The larger number is:", larger_number
+
 
